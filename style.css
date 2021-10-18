@@ -1,0 +1,399 @@
+@charset "UTF-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.background1{
+	position: absolute
+}
+
+.TV{
+	position: absolute;
+		left: 836px;
+		top: 270px;
+}
+
+.tvflower{
+	position: absolute;
+	left: 850px;
+	top: 280px;
+	width: 134px;
+	height: 101px;
+}
+
+.counter{
+	position: absolute;
+	left: -20px;
+	top: 299px;
+}
+
+.healthyflowertab1{
+	position:absolute;
+	top: 360px;
+	left: 1042px;
+}
+
+.chair{
+	position: absolute;
+	top: 350px;
+	left: 1163px;
+}
+
+.philbert{
+	position: absolute;
+	top: 115px;
+	left: 1037px;
+}
+
+.table{
+	position: absolute;
+	top: 580px;
+	left: 950px;
+}
+
+.shadowman1{
+	position: absolute;
+	left: 638px;
+	top: 252px;
+	height: 500px;
+}
+
+.background2{
+	position: absolute;
+}
+
+.remainflowertext{
+	position: absolute;
+	left: 60px;
+	top: 130px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+.remainflowertext:hover{
+	opacity: 1;
+}
+
+.havechangedtext{
+	position:absolute;
+	left: 550px;
+	top: 130px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+.havechangedtext:hover{
+	opacity: 1;
+}
+
+.iamwiltingtext{
+	position: absolute;
+	top: 130px;
+	left: 1070px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+.iamwiltingtext:hover{
+	opacity: 1;
+}
+
+.years{
+	position: absolute;
+}
+
+.window{
+	position: absolute;
+	z-index: 100000000px;
+}
+
+.wateringshadowman{
+	position: absolute;
+	top: 147px;
+	left: 670px;
+}
+
+.wateringcan{
+	position: absolute;
+	top: 470px;
+	left: 700px;
+	opacity:0;
+}
+
+.wateringcan:hover{
+	opacity: 1;
+}
+
+.bottombreak{
+	position: absolute;
+	top: 684px;
+	left: 653px;
+}
+
+.topbreak{
+	position: absolute;
+	top: 503px;
+	left: 736px;
+}
+
+.dyingflower{
+	position: absolute;
+	top: 496px;
+	left: 783px;
+}
+
+.noprevailtext{
+	position: absolute;
+	top: 697px;
+	left: 837px;
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+.noprevailtext:hover{
+	opacity: 1;
+}
+
+.towardsuntext{
+	position: absolute;
+	top: 568px;
+	left: 965px;
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+.towardsuntext:hover{
+	opacity: 1;
+}
+
+.hewaterstext{
+	position: absolute;
+	top: 344px;
+	left:965px;
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+.hewaterstext:hover{
+	opacity: 1;
+}
+
+.resoilstext{
+	position: absolute;
+	top: 453px;
+	left: 965px;
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+.resoilstext:hover{
+	opacity: 1;
+}
+
+.background4{
+	position: absolute;
+}
+
+.shadowman{
+	position: absolute;
+	left: 638px;
+	top: 252px;
+	transition: opacity 1s;
+}
+
+.shadowman:hover{
+	opacity: 0;
+}
+
+.dyingflower2{
+	position: absolute;
+	left: 1018px;
+	top: 410px;
+}
+
+.philbert2{
+	position: absolute;
+	top: 115px;
+	left: 1037px;
+	transition: opacity 1s;
+}
+
+.philbert2:hover{
+	opacity: 0;
+}
+
+.godsgaveuptext{
+	position: absolute;
+	left: 1111px;
+	top: 566px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+.godsgaveuptext:hover{
+	opacity: 1
+}
+
+.hegaveuptext{
+	position: absolute;
+	left: 702px;
+	top: 425px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+.hegaveuptext:hover{
+	opacity:1;
+}
+
+.theygaveuptext{
+	position: absolute;
+	top: 29px;
+	left: 520px;
+}
+
+.tvflower2{
+	position: absolute;
+	top: 300px;
+	left: 841px;
+	width: 134px;
+	height: 101px;
+}
+
+.TV2{
+	position: absolute;
+	top: 289px;
+	left: 820px;
+}
+
+.spotlight{
+	position: absolute;
+	left: 282px;
+}
+
+.wiltedflower1{
+	position: absolute;
+	left: 580px;
+	top: 93px;
+}
+
+.ihavegivenuptext{
+	position: absolute;
+	left: 449px;
+	top: 352px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+
+.ihavegivenuptext:hover{
+	opacity: 1;
+}
+
+.background5{
+	position:absolute;
+}
+
+.windowbackground2{
+	position:absolute;
+}
+
+.shadowmansite6{
+	position: absolute;
+	left: 100px;
+	top: 184px;
+}
+
+.ensure{
+	position: absolute;
+	top: 683px;
+	left: 1028px;
+	opacity: .6;
+}
+
+.deadflowersite6{
+	position: absolute;
+	top: 462px;
+	left: 641px;
+}
+
+.desertedtext{
+	position: absolute;
+	top: 307px;
+	left: 554px;
+}
+
+.leftcurtain{
+	position: absolute;
+	left: 450px;
+	top: 79px;
+}
+
+.rightcurtain{
+	position: absolute;
+	top: 79px;
+	left: 710px;
+	opacity: 1;
+}
+
+/* .rightcurtain:hover{
+	opacity: 0;
+} */
+
+.rightcurtainpulled{
+	position: absolute;
+	opacity: 0;
+	left: 700px;
+	top: 79px;
+	transition: opacity;
+}
+
+.rightcurtainpulled:hover{
+	opacity: 1;
+}
+
+.behindcurtainstext{
+	position:absolute;
+	left: 556px;
+	top: 302px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+
+.behindcurtainstext:hover{
+	opacity: 1;
+}
+
+.background7{
+	position: absolute;
+}
+
+.spotlight2{
+	position: absolute;
+	left: 282px;
+}
+
+.wiltedflower2{
+	position: absolute;
+	left: 590px;
+	top: 93px;
+}
+
+.clairdelune{
+	position: absolute;
+	opacity: .2;
+	left: 600px;
+}
+
+.ebony{
+	position: absolute;
+	top: 700px;
+	left: 450px;
+	opacity: .4;
+	transition: opacity 2s;
+}
+
+.ebony:hover{
+	opacity: 1;
+}
